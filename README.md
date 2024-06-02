@@ -1,7 +1,7 @@
 ## Hello! 👋
 I'm Ned! 
 
-I'm a software developer who loves doing web development, Python scriping, and data analytics/visualizations.
+I'm a software developer who loves doing web development, Python scripting, and data analytics/visualizations.
 
 You can find a bit more about me on my [website](https://nedthedev.com)!
 
